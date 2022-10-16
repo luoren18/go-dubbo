@@ -1,4 +1,4 @@
-module luoren.top/go_dubbo/service_user
+module github.com/luoren18/go-dubbo/service_user
 
 go 1.18
 
